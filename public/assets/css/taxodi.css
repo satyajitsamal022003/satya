@@ -1,0 +1,40 @@
+.card-body{
+            padding: 0px 0px 9px 0px!important;
+        }
+        .card-border-success,
+        .card-border-info,
+        .card-border-warning{
+            border-radius: 10px!important;
+        }
+        .card-border-success .card-footer, .card-border-success .card-header,
+        .card-border-info .card-footer, .card-border-info .card-header,
+        .card-border-warning .card-footer, .card-border-warning .card-header{
+            border-color: #fff!important;
+            border-radius: 10px!important;
+            padding: 30px;
+        }
+        .card {
+            margin-bottom: 20px!important;
+            box-shadow: 0 3px 3px rgba(56,65,74,.15)!important;
+        }
+        .nav-success .nav-link.active{
+            background-color: #022b50!important;
+        }
+        .nav-pills .nav-link {
+            border-radius: 0.4rem;
+            background-color: #f4f4f4;
+            margin: 8px;
+            padding: 10px 36px;
+            display: flex;
+            column-gap: 0.6rem;
+            align-items: center;
+            font-weight: 500;
+            font-size: 15px;
+            line-height: 1.6rem;
+            color: #999ea2;
+}
+.search-box .form-control {
+    padding-left: 41px!important;
+    height: 47px!important;
+    background-color: #f3f3f9;
+}
